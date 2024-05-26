@@ -1,4 +1,4 @@
-function createWindow(windowTitle)
+local function createWindow(windowTitle)
     -- Create Instances
     local ScreenGui = Instance.new("ScreenGui")
     local Main = Instance.new("Frame")
